@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 /* Autor: Guilherme Antonio Silva 
-Data: 08/04/24
+Data: 22/04/24
 */
 
 int main(){
